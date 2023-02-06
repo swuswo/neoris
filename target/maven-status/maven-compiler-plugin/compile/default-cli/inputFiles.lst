@@ -1,0 +1,11 @@
+C:\Projects_ca\NEORIS\Neoris\AutomatizacionAPI\src\main\java\neoris\api\interactions\create\PostReqRes.java
+C:\Projects_ca\NEORIS\Neoris\AutomatizacionAPI\src\main\java\neoris\api\utils\ValidateRequestResponse.java
+C:\Projects_ca\NEORIS\Neoris\AutomatizacionAPI\src\main\java\neoris\api\tasks\create\ValidateUsers.java
+C:\Projects_ca\NEORIS\Neoris\AutomatizacionAPI\src\main\java\neoris\api\dtos\create\UsersFactory.java
+C:\Projects_ca\NEORIS\Neoris\AutomatizacionAPI\src\main\java\neoris\api\dtos\create\UsersDTO.java
+C:\Projects_ca\NEORIS\Neoris\AutomatizacionAPI\src\main\java\neoris\api\questions\endpoint\UsersResponse.java
+C:\Projects_ca\NEORIS\Neoris\AutomatizacionAPI\src\main\java\neoris\api\utils\GetUrlPaths.java
+C:\Projects_ca\NEORIS\Neoris\AutomatizacionAPI\src\main\java\neoris\api\utils\GetStatusCode.java
+C:\Projects_ca\NEORIS\Neoris\AutomatizacionAPI\src\main\java\neoris\api\dtos\create\Users.java
+C:\Projects_ca\NEORIS\Neoris\AutomatizacionAPI\src\main\java\neoris\api\interactions\create\PostCreate.java
+C:\Projects_ca\NEORIS\Neoris\AutomatizacionAPI\src\main\java\neoris\api\dtos\constants\StatusCodeConstants.java

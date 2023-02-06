@@ -1,0 +1,13 @@
+neoris\api\interactions\create\PostCreate.class
+neoris\api\questions\endpoint\UsersResponse.class
+neoris\api\dtos\constants\StatusCodeConstants.class
+neoris\api\utils\GetUrlPaths.class
+neoris\api\interactions\create\PostReqRes.class
+neoris\api\utils\GetStatusCode.class
+neoris\api\tasks\create\ValidateUsers.class
+neoris\api\dtos\create\UsersFactory.class
+neoris\api\dtos\create\Users$UsersBuilder.class
+neoris\api\dtos\create\Users.class
+neoris\api\dtos\create\UsersDTO$UsersDTOBuilder.class
+neoris\api\dtos\create\UsersDTO.class
+neoris\api\utils\ValidateRequestResponse.class
